@@ -1,0 +1,103 @@
+{
+  "positions" : [ {
+    "id" : "/Test",
+    "x" : 240,
+    "y" : 218
+  }, {
+    "id" : "/Hello_main",
+    "x" : 240,
+    "y" : 782
+  }, {
+    "id" : "/Null",
+    "x" : 240,
+    "y" : 1528
+  }, {
+    "id" : "/NoMatch",
+    "x" : 240,
+    "y" : 2231
+  }, {
+    "id" : "/Voicemail",
+    "x" : 240,
+    "y" : 2826
+  }, {
+    "id" : "/WhatCompany",
+    "x" : 240,
+    "y" : 4539
+  }, {
+    "id" : "/Repeat",
+    "x" : 240,
+    "y" : 7997
+  }, {
+    "id" : "/WhatName",
+    "x" : 240,
+    "y" : 10649
+  }, {
+    "id" : "/CallGoal",
+    "x" : 240,
+    "y" : 12599
+  }, {
+    "id" : "/Robot",
+    "x" : 240,
+    "y" : 9339
+  }, {
+    "id" : "/DontDisturb",
+    "x" : 240,
+    "y" : 6252
+  }, {
+    "id" : "/PhoneNumber",
+    "x" : 240,
+    "y" : 14581
+  }, {
+    "id" : "/WhatDate",
+    "x" : 240,
+    "y" : 16563
+  }, {
+    "id" : "/WhatDoctor",
+    "x" : 240,
+    "y" : 19489
+  }, {
+    "id" : "/WontCome",
+    "x" : 240,
+    "y" : 18003
+  }, {
+    "id" : "/Cancel",
+    "x" : 240,
+    "y" : 18695
+  }, {
+    "id" : "/Postpone",
+    "x" : 240,
+    "y" : 3325
+  }, {
+    "id" : "/Call_back",
+    "x" : 240,
+    "y" : 20299
+  }, {
+    "id" : "/Confirm",
+    "x" : 240,
+    "y" : 20801
+  }, {
+    "id" : "/NotService",
+    "x" : 240,
+    "y" : 21287
+  }, {
+    "id" : "/ChooseDate",
+    "x" : 620,
+    "y" : 3325
+  }, {
+    "id" : "/NewDate",
+    "x" : 1000,
+    "y" : 3325
+  }, {
+    "id" : "/PostponeTail",
+    "x" : 620,
+    "y" : 10659
+  }, {
+    "id" : "/BadSlots",
+    "x" : 240,
+    "y" : 21773
+  }, {
+    "id" : "/OperatorHangup",
+    "x" : 620,
+    "y" : 13580
+  } ]
+}
